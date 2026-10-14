@@ -1,6 +1,0 @@
- Getting the newest Strata (git pull) ...
-fatal: unable to access 'https://github.com/Niko1221/Strata.git/': Recv failure: Connection was reset
-
- git pull did not succeed (the reason is above): nothing was updated. Files you changed here can stop it:
- "git status" lists them.
-请按任意键继续. . . 

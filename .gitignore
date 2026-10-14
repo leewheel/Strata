@@ -62,3 +62,9 @@ build-vision-cuda12.bat
 /.ccache/
 /.rocm-win/
 /engine-dl
+
+# this PC's update log and local tool state, not project source
+/update-log.txt
+/pull-log.txt
+/setup-strata.log.old
+/.freebuff/
